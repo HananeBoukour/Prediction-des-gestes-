@@ -1,1 +1,1 @@
-# Prediction-des-gestes-des-operateurs-sur-une-ligne-d-assemblage-
+# Prediction-des-gestes-
